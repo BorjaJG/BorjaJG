@@ -40,13 +40,13 @@ Soy un desarrollador apasionado especializado en **Desarrollo de Aplicaciones Mu
 ## 📈 Mis Estadísticas en GitHub
 
 ### 🔥 Actividad y Contribuciones:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=BorjaJG&show_icons=true&theme=radical)
 
 ### 📊 Lenguajes más Usados:
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaJG&layout=compact&theme=radical)
 
 ### 🏆 Trofeos de GitHub:
-![Trofeos](https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=radical&no-bg=true&no-frame=true)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=BorjaJG&theme=radical&no-bg=true&no-frame=true)
 
 ---
 
@@ -87,5 +87,5 @@ Sistema **ERP** basado en una arquitectura de microservicios utilizando **Docker
 ---
 
 ## 📬 Contacto
-Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme en **[correo@ejemplo.com](mailto:correo@ejemplo.com)**.
+Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme en **[borjajg02@gmail.com](mailto:borjajg02@gmail.com)**.
 
