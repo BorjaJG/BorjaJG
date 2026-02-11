@@ -1,91 +1,84 @@
-# 👋 ¡Hola! Soy Borja 
+# 👋 ¡Hola! Soy Borja
 
-Soy un desarrollador apasionado especializado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me encanta resolver problemas, aprender nuevas tecnologías y aplicar soluciones innovadoras en mis proyectos. Además, disfruto compartir mis conocimientos y colaborar en la comunidad de código abierto.
-
----
-
-## 🚀 Acerca de mí:
-- 🎓 Estudiante de **DAM**.
-- 🔭 Actualmente colaborando en: **[Nombre del proyecto actual]**.
-- 🌱 Aprendiendo: **Docker**, **Kubernetes** y **Machine Learning**.
-- 💬 Pregúntame sobre: **Desarrollo multiplataforma**, **Java**, **Kotlin**, **Bases de datos**.
-- ⚡ Fun fact: **Me gusta cocinar, ver documentales y aprender sobre avances científicos**.
+Soy desarrollador especializado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona resolver problemas, aprender nuevas tecnologías y construir soluciones escalables y bien estructuradas.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🚀 Acerca de mí
 
-### Lenguajes:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- 🎓 Estudiante de **DAM**
+- 🌱 Actualmente aprendiendo: **Docker**, **Kubernetes** y **Machine Learning**
+- 💬 Intereses: **Java**, **Kotlin**, **Arquitectura Backend**, **Bases de datos**
+- ⚡ Intereses personales: cocina, documentales y avances científicos
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks y Librerías:
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### Frameworks & Librerías
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### Bases de Datos:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### DevOps y Herramientas:
+### DevOps & Herramientas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-## 📈 Mis Estadísticas en GitHub
+## 📊 Estadísticas
 
-### 🔥 Actividad y Contribuciones:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=BorjaJG&show_icons=true&theme=radical)
+### 🔥 Actividad
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BorjaJG&show_icons=true&theme=radical)
 
-### 📊 Lenguajes más Usados:
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaJG&layout=compact&theme=radical)
+### 📈 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaJG&layout=compact&theme=radical)
 
-### 🏆 Trofeos de GitHub:
-![Trofeos](https://github-profile-trophy.vercel.app/?username=BorjaJG&theme=radical&no-bg=true&no-frame=true)
+### 🏆 Logros
+![Trophy](https://github-profile-trophy.vercel.app/?username=BorjaJG&theme=radical&no-bg=true&no-frame=true)
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 1. [CRM Multiplataforma](https://github.com/tu_usuario/proyecto1)
-Un **CRM** desarrollado en **Java** y **Spring Boot** para la gestión de clientes. El sistema incluye autenticación, gestión de usuarios y reportes.
-- **Tecnologías**: Java, Spring Boot, MySQL
-- **Características**:
-  - Gestión de clientes y usuarios.
-  - Integración con servicios externos para facturación.
-  - Sistema de autenticación y autorización.
+### 🔹 CRM Multiplataforma
+Sistema CRM desarrollado con **Java y Spring Boot**.
+- Gestión de clientes y usuarios
+- Autenticación y autorización
+- Integración con servicios externos
 
-### 2. [App Móvil para gestión de tareas](https://github.com/tu_usuario/proyecto2)
-Una aplicación móvil nativa desarrollada en **Kotlin** para gestionar las tareas diarias, con funcionalidades de sincronización en la nube y notificaciones.
-- **Tecnologías**: Kotlin, Firebase, Android SDK
-- **Características**:
-  - Sincronización en la nube.
-  - Notificaciones push.
-  - Gestión de tareas con etiquetas y prioridades.
+### 🔹 App de Gestión de Tareas
+Aplicación móvil desarrollada en **Kotlin**.
+- Sincronización en la nube
+- Notificaciones push
+- Gestión por etiquetas y prioridades
 
-### 3. [ERP basado en microservicios](https://github.com/tu_usuario/proyecto3)
-Sistema **ERP** basado en una arquitectura de microservicios utilizando **Docker** y **Kubernetes** para la gestión integral de empresas.
-- **Tecnologías**: Docker, Kubernetes, Java, Spring Cloud
-- **Características**:
-  - Modularidad completa con microservicios.
-  - Escalabilidad mediante Kubernetes.
-  - Gestión financiera y de inventarios.
+### 🔹 ERP con Microservicios
+Arquitectura basada en **Docker y Kubernetes**.
+- Modularidad completa
+- Escalabilidad horizontal
+- Gestión financiera e inventario
 
 ---
 
-## 🌐 Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario/)
-[![Portfolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
-[![Blog](https://img.shields.io/badge/Blog-DD4B39?style=for-the-badge&logo=blogger&logoColor=white)](https://tublog.com)
+## 🌐 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/BorjaJG)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ---
 
 ## 📬 Contacto
-Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme en **[borjajg02@gmail.com](mailto:borjajg02@gmail.com)**.
 
+📧 **borjajg02@gmail.com**
+
+---
+
+⭐ Siempre abierto a colaborar en proyectos interesantes y seguir aprendiendo.
