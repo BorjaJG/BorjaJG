@@ -63,20 +63,41 @@ Construyendo el futuro con código 🚀
 
 ---
 
+---
+
 # 🚀 Proyectos Destacados
 
-### 🔹 CRM Multiplataforma  
-🧩 Java + Spring Boot + MySQL  
-Sistema de gestión de clientes con autenticación y arquitectura limpia.
+## 🔹 FP-IESAM-Android (Colaborativo – Privado)
+📱 Aplicación móvil oficial del IES Alonso de Madrigal  
+🧠 Clean Architecture + MVVM  
+⚙️ Kotlin · Firebase · Room · Navigation · Material 3  
+🔗 https://github.com/BorjaJG/fp-iesam-android  
 
-### 🔹 App de Gestión de Tareas  
-📱 Kotlin + Firebase  
-Aplicación móvil con sincronización en la nube y notificaciones push.
+---
 
-### 🔹 ERP con Microservicios  
-🐳 Docker + Kubernetes  
-Sistema empresarial escalable basado en microservicios.
+## 🔹 Android-MeCeIoT – IoT en Centros Educativos
+📡 Visualización de sensores vía LoRaWAN  
+🤝 Colaboración con Universidad de Salamanca (TIDOP)  
+⚙️ Kotlin · MVVM · SQLite · Integración IoT  
+🔗 https://github.com/BorjaJG/android-meceiot  
 
+---
+
+## 🔹 IES Alonso de Madrigal – Web + API REST
+🌐 Web institucional + API REST en PHP  
+⚙️ PHP · JS · HTML/CSS · JSON · Arquitectura cliente-servidor  
+🔗 https://github.com/BorjaJG/ies-alonso-web-api  
+
+---
+
+## 🔹 VoiceCloneLocal – Clonación de Voz IA
+🎙️ Clonación de voz usando Coqui TTS  
+🤝 Integrado en proyecto EyeSense (CAP predictiva)  
+⚙️ Kotlin · Python · TensorFlow Lite · BLE · TTS  
+🔗 https://github.com/BorjaJG/VoiceCloneLocal  
+
+---
+g
 ---
 
 # 🌐 Conecta conmigo
