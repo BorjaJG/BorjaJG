@@ -1,84 +1,98 @@
-# 👋 ¡Hola! Soy Borja
+# 👋 Hola, soy Borja  
+### 🚀 Desarrollador Multiplataforma  
+**Backend | Mobile | DevOps**  
+Construyendo el futuro con código 🚀  
 
-Soy desarrollador especializado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona resolver problemas, aprender nuevas tecnologías y construir soluciones escalables y bien estructuradas.
-
----
-
-## 🚀 Acerca de mí
-
-- 🎓 Estudiante de **DAM**
-- 🌱 Actualmente aprendiendo: **Docker**, **Kubernetes** y **Machine Learning**
-- 💬 Intereses: **Java**, **Kotlin**, **Arquitectura Backend**, **Bases de datos**
-- ⚡ Intereses personales: cocina, documentales y avances científicos
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Borja+👋;Desarrollador+Multiplataforma;Backend+%7C+Mobile+%7C+DevOps;Construyendo+el+futuro+con+código+🚀" />
+</p>
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🧠 Sobre mí
 
-### Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+```bash
+> Estudiante de DAM
+> Especializado en desarrollo backend y mobile
+> Interesado en microservicios y arquitectura escalable
+> Siempre aprendiendo algo nuevo 🚀
+```
 
-### Frameworks & Librerías
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### DevOps & Herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
+🌱 Actualmente aprendiendo: Docker, Kubernetes y Machine Learning  
+💬 Stack principal: Java, Kotlin, SQL  
+⚡ Intereses: tecnología, ciencia y cocina  
 
 ---
 
-## 📊 Estadísticas
+# ⚙️ Tech Stack
 
-### 🔥 Actividad
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BorjaJG&show_icons=true&theme=radical)
+## 🖥 Lenguajes
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,mysql" />
+</p>
 
-### 📈 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaJG&layout=compact&theme=radical)
+## 🚀 Frameworks & Librerías
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react" />
+</p>
 
-### 🏆 Logros
-![Trophy](https://github-profile-trophy.vercel.app/?username=BorjaJG&theme=radical&no-bg=true&no-frame=true)
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🔹 CRM Multiplataforma
-Sistema CRM desarrollado con **Java y Spring Boot**.
-- Gestión de clientes y usuarios
-- Autenticación y autorización
-- Integración con servicios externos
-
-### 🔹 App de Gestión de Tareas
-Aplicación móvil desarrollada en **Kotlin**.
-- Sincronización en la nube
-- Notificaciones push
-- Gestión por etiquetas y prioridades
-
-### 🔹 ERP con Microservicios
-Arquitectura basada en **Docker y Kubernetes**.
-- Modularidad completa
-- Escalabilidad horizontal
-- Gestión financiera e inventario
+## 🐳 DevOps & Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+</p>
 
 ---
 
-## 🌐 Conecta conmigo
+# 📊 GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/BorjaJG)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BorjaJG&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BorjaJG&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BorjaJG&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BorjaJG&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BorjaJG&theme=tokyonight&utcOffset=1" />
+</p>
 
 ---
 
-## 📬 Contacto
+# 🚀 Proyectos Destacados
 
-📧 **borjajg02@gmail.com**
+### 🔹 CRM Multiplataforma  
+🧩 Java + Spring Boot + MySQL  
+Sistema de gestión de clientes con autenticación y arquitectura limpia.
+
+### 🔹 App de Gestión de Tareas  
+📱 Kotlin + Firebase  
+Aplicación móvil con sincronización en la nube y notificaciones push.
+
+### 🔹 ERP con Microservicios  
+🐳 Docker + Kubernetes  
+Sistema empresarial escalable basado en microservicios.
 
 ---
 
-⭐ Siempre abierto a colaborar en proyectos interesantes y seguir aprendiendo.
+# 🌐 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+  </a>
+  <a href="https://github.com/BorjaJG">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+  </a>
+  <a href="mailto:borjajg02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A0A0A&height=120&section=footer"/>
+</p>
