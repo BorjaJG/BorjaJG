@@ -71,7 +71,7 @@ Construyendo el futuro con código 🚀
 📱 Aplicación móvil oficial del IES Alonso de Madrigal  
 🧠 Clean Architecture + MVVM  
 ⚙️ Kotlin · Firebase · Room · Navigation · Material 3  
-🔗 https://github.com/BorjaJG/fp-iesam-android  
+🔗 [https://github.com/BorjaJG/ies-alonso-web-api](https://github.com/iesalonsodemadrigal/fp-iesam-android)   
 
 ---
 
@@ -79,14 +79,14 @@ Construyendo el futuro con código 🚀
 📡 Visualización de sensores vía LoRaWAN  
 🤝 Colaboración con Universidad de Salamanca (TIDOP)  
 ⚙️ Kotlin · MVVM · SQLite · Integración IoT  
-🔗 https://github.com/BorjaJG/android-meceiot  
+🔗 [https://github.com/BorjaJG/android-meceiot  ](https://github.com/iesalonsodemadrigal/android-meceiot)
 
 ---
 
 ## 🔹 IES Alonso de Madrigal – Web + API REST
 🌐 Web institucional + API REST en PHP  
 ⚙️ PHP · JS · HTML/CSS · JSON · Arquitectura cliente-servidor  
-🔗 https://github.com/BorjaJG/ies-alonso-web-api  
+🔗 https://github.com/BorjaJG/Api-Wordpress  
 
 ---
 
@@ -96,8 +96,6 @@ Construyendo el futuro con código 🚀
 ⚙️ Kotlin · Python · TensorFlow Lite · BLE · TTS  
 🔗 https://github.com/BorjaJG/VoiceCloneLocal  
 
----
-g
 ---
 
 # 🌐 Conecta conmigo
