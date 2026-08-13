@@ -12,13 +12,13 @@ Construyendo el futuro con código 🚀
 ## 🧠 Sobre mí
 
 ```bash
-> Estudiante de DAM
+> Desarrollador Multiplataforma
 > Especializado en desarrollo backend y mobile
 > Interesado en microservicios y arquitectura escalable
 > Siempre aprendiendo algo nuevo 🚀
 ```
 
-🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
+
 🌱 Actualmente aprendiendo: Docker, Kubernetes y Machine Learning  
 💬 Stack principal: Java, Kotlin, SQL  
 ⚡ Intereses: tecnología, ciencia y cocina  
